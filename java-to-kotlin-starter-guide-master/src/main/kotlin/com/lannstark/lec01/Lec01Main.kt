@@ -6,6 +6,6 @@ fun main() {
     val number2 = 10L
 
     var number3: Long? = 1000L
-    var person = Person("이용석")
+    var person = Person("greg")
 
 }
