@@ -1,5 +1,6 @@
 package com.lannstark.lec01
 
+// 변수
 fun main() {
 
     var number1 = 10L

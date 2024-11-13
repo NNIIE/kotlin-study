@@ -1,5 +1,6 @@
 package com.lannstark.lec02
 
+// null
 fun main() {
     // Safe Call: null이 아니면 실행하고, null이면 실행하지 않는다. (그대로 null)
     val str1: String? = null
