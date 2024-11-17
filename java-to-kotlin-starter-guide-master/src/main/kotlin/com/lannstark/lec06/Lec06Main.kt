@@ -18,7 +18,7 @@ fun main() {
     for (i in 1..5 step 2) {
         println(i)
     }
-    
+
     var i = 1
     while (i <= 3) {
         println(i)
