@@ -1,5 +1,6 @@
 package com.lannstark.lec09
 
+// 클래스
 fun main() {
     val person = Person("greg", 100)
     println(person.name)
